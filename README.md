@@ -10,6 +10,9 @@ The application is designed to provide an accounting, invoicing and billing solu
 ## Technologies Used
 
 The project is developed and hosted on the Mendix platform.
+In addition to the standard tools, the following modules from the Mendix App Store are used:
+* Email Template | Used for creating email templates, connecting to the SMTP server and sending the auto generated document to the intended client
+* Encryption | Used by the Email Template module for encryption and decryption of documents using PGP
 
 ## Developers
 
@@ -19,6 +22,22 @@ This project was developed with contributions by:
 * Tapan Thakar
 * Yang Chen
 * Hemanathan Sathiamoorthy
+
+## Documentation
+
+The project report documents the various aspects of the application's analysis, design, implementation testing and user guides.
+
+The report contains the following main headings:
+* Introduction
+* Aims and Objectives
+* Development Plan
+* System Analysis
+* System Design
+* System Implementation
+* Testing
+* User Guides
+* Conclusion
+* References
 
 ## Setup
 
