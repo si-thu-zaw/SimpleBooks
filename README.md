@@ -12,7 +12,7 @@ The application is designed to provide an accounting, invoicing and billing solu
 The project is developed and hosted on the Mendix platform.
 In addition to the standard tools, the following modules from the Mendix App Store are used:
 * Email Template | Used for creating email templates, connecting to the SMTP server and sending the auto generated document to the intended client
-* Encryption | Used by the Email Template module for encryption and decryption of documents using PGP
+* Encryption | Used by the Email Template module for encryption and decryption of system email access credentials and documents using PGP
 
 ## Developers
 
