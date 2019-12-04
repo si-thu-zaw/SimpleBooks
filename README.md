@@ -28,12 +28,12 @@ The live version of this application can be accessed via: https://simplebooks-sa
 The following demo accounts can be used see the views of the users and administrators:
 
 * User Account
-** Username: ACMEShipping
-** Password: Password1!
+..* Username: ACMEShipping
+..* Password: Password1!
 
 * Administrator Account
-** Username: MxAdmin
-** Password: admin
+..* Username: MxAdmin
+..* Password: admin
 
 ### Project File
 This project files can be opened using Mendix Modeler 7.18.1
